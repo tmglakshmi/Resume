@@ -1,0 +1,45 @@
+*box-sizing{
+    border:boxed;
+} 
+
+h1{
+    text-align: center; 
+    
+}
+.container{
+    width:50% ;
+    background-color:rgb(227, 240, 252); 
+} 
+
+.skills{
+    padding-top: 10px; 
+    padding-bottom: 10px;  
+    text-align: right; 
+    color:white;
+
+} 
+
+.Cpp{
+    width:100%; 
+    background-color:hwb(219 65% 2%);
+} 
+
+.Python{
+    width:90%; 
+    background-color:hwb(219 65% 2%);
+} 
+
+.C{
+    width:100%; 
+    background-color:hwb(219 65% 2%);
+} 
+
+.DBMS{
+    width:100%; 
+    background-color:hwb(219 65% 2%);
+} 
+
+.MERN{
+    width:50%; 
+    background-color:hwb(219 65% 2%);
+}

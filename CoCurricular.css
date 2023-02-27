@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+} 
+
+.inner{
+    background-color:hwb(219 65% 2%); 
+    padding:10px; 
+    width:800px; 
+    margin-left: 200px; 
+    color:rgb(0, 0, 142) 
+} 
+
+#text{
+    color:white;
+}
